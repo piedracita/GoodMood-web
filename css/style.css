@@ -24,6 +24,7 @@
 16) ARLO MAGIC CURSOR
 17) ARLO TOTOP
 18) ARLO MEDIA QUERIES (FOR SMALL DEVICES)
+19) ARNALD CUSTOM
 
 
 /*---------------------------------------------------*/
@@ -2621,4 +2622,13 @@ body.resize .arlo_tm_mainpart{
 	.arlo_tm_modalbox .close a{width: 30px;height: 30px;}
 	.arlo_tm_skills .list ul{margin: 0px;}
 	.arlo_tm_skills .list ul li{width: 100%;padding-left: 0px;}
+}
+
+
+
+/*---------------------------------------------------*/
+/*	19) ARNALD CUSTOM
+/*---------------------------------------------------*/
+.bg-grey{
+	background-color: #f9f9f9;
 }
