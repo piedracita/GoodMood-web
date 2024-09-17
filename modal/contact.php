@@ -6,6 +6,7 @@ $php_main_email = "arnaldpedros@gmail.com";
 //Fetching Values from URL
 $php_name = $_POST['ajax_name'];
 $php_email = $_POST['ajax_email'];
+$php_date = $_POST['ajax_date'];
 $php_message = $_POST['ajax_message'];
 
 
