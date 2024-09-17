@@ -30,6 +30,7 @@ if (filter_var($php_email, FILTER_VALIDATE_EMAIL)) {
 		. 'Thank you for contacting us.<br/><br/>'
 		. '<strong style="color:#f00a77;">Name:</strong>  ' . $php_name . '<br/>'
 		. '<strong style="color:#f00a77;">Email:</strong>  ' . $php_email . '<br/>'
+		. '<strong style="color:#f00a77;">Date:</strong>  ' . $php_date . '<br/>'
 		. '<strong style="color:#f00a77;">Message:</strong>  ' . $php_message . '<br/><br/>'
 		. 'This is a Contact Confirmation mail.'
 		. '<br/>'
